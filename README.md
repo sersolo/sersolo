@@ -8,3 +8,6 @@
 sersolo/sersolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+git commit -m "GIT-1 add a README file to the project."
+git push origin main
